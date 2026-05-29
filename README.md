@@ -16,7 +16,7 @@ Med-Tracker ET is an Android app that helps Ethiopian patients locate nearby pha
 | KALEAB SHEWADEG | Network & API Lead |
 | FITSUM MOLLA | UI/UX Lead |
 | BINIYAM GELEBO |  Database & State Lead |
-| _(Member 5)_ | DevOps & Testing Lead |
+| Degife Tise | DevOps & Testing Lead |
 
 ---
 
